@@ -3,19 +3,20 @@
     {
       "id": "bitcoin",
       "name": "Биткоин",
-      "desc": "Первая децентрализованная криптовалюта (2009).",
+      "desc": "Первая криптовалюта (2009). Цифровой звон.",
       "obverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/512px-Bitcoin.svg.png",
       "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/512px-Bitcoin.svg.png",
-      "soundUrl": "https://www.soundjay.com/coins/sounds/coin-drop-1.mp3",
+      "soundType": "synthetic",
       "isPremium": false
     },
     {
       "id": "dollar",
       "name": "Доллар США",
-      "desc": "Официальная валюта Соединенных Штатов.",
+      "desc": "Валюта США. Классический металлический звон.",
       "obverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2013_Series_United_States_one_dollar_bill%2C_obverse.jpg/512px-2013_Series_United_States_one_dollar_bill%2C_obverse.jpg",
       "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2013_Series_United_States_one_dollar_bill%2C_reverse.jpg/512px-2013_Series_United_States_one_dollar_bill%2C_reverse.jpg",
-      "soundUrl": "https://www.soundjay.com/coins/sounds/coin-drop-2.mp3",
+      "soundUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Coin_drop.ogg",
+      "soundType": "real",
       "isPremium": false
     },
     {
@@ -24,7 +25,8 @@
       "desc": "Валюта Еврозоны. 20+ стран.",
       "obverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2_euro_coin_Luxembourg_2005.jpg/512px-2_euro_coin_Luxembourg_2005.jpg",
       "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2_euro_coin_Luxembourg_2005.jpg/512px-2_euro_coin_Luxembourg_2005.jpg",
-      "soundUrl": "https://www.soundjay.com/coins/sounds/coin-drop-1.mp3",
+      "soundUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Coin_drop.ogg",
+      "soundType": "real",
       "isPremium": false
     },
     {
@@ -33,7 +35,8 @@
       "desc": "Национальная валюта РФ.",
       "obverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/10_rubles_2009_front.jpg/512px-10_rubles_2009_front.jpg",
       "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/10_rubles_2009_back.jpg/512px-10_rubles_2009_back.jpg",
-      "soundUrl": "https://www.soundjay.com/coins/sounds/coin-drop-2.mp3",
+      "soundUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Coin_drop.ogg",
+      "soundType": "real",
       "isPremium": false
     },
     {
@@ -42,7 +45,8 @@
       "desc": "Валюта Великобритании.",
       "obverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/British_One_Pound_Coin_%282008%29.jpg/512px-British_One_Pound_Coin_%282008%29.jpg",
       "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/British_One_Pound_Coin_%282008%29.jpg/512px-British_One_Pound_Coin_%282008%29.jpg",
-      "soundUrl": "https://www.soundjay.com/coins/sounds/coin-drop-1.mp3",
+      "soundUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Coin_drop.ogg",
+      "soundType": "real",
       "isPremium": false
     },
     {
@@ -51,7 +55,8 @@
       "desc": "Валюта Японии.",
       "obverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/100_Yen_Coin.jpg/512px-100_Yen_Coin.jpg",
       "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/100_Yen_Coin_Reverse.jpg/512px-100_Yen_Coin_Reverse.jpg",
-      "soundUrl": "https://www.soundjay.com/coins/sounds/coin-drop-2.mp3",
+      "soundUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Coin_drop.ogg",
+      "soundType": "real",
       "isPremium": false
     },
     {
@@ -60,7 +65,8 @@
       "desc": "Валюта Китая.",
       "obverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/1_Yuan_coin_obverse.jpg/512px-1_Yuan_coin_obverse.jpg",
       "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/1_Yuan_coin_reverse.jpg/512px-1_Yuan_coin_reverse.jpg",
-      "soundUrl": "https://www.soundjay.com/coins/sounds/coin-drop-1.mp3",
+      "soundUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Coin_drop.ogg",
+      "soundType": "real",
       "isPremium": false
     },
     {
@@ -69,7 +75,8 @@
       "desc": "Валюта Индии.",
       "obverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Indian_1_Rupee_Coin.jpg/512px-Indian_1_Rupee_Coin.jpg",
       "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Indian_1_Rupee_Coin.jpg/512px-Indian_1_Rupee_Coin.jpg",
-      "soundUrl": "https://www.soundjay.com/coins/sounds/coin-drop-2.mp3",
+      "soundUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Coin_drop.ogg",
+      "soundType": "real",
       "isPremium": false
     },
     {
@@ -78,7 +85,8 @@
       "desc": "Валюта Швейцарии.",
       "obverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/1_Swiss_Franc_2008_obverse.jpg/512px-1_Swiss_Franc_2008_obverse.jpg",
       "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/1_Swiss_Franc_2008_reverse.jpg/512px-1_Swiss_Franc_2008_reverse.jpg",
-      "soundUrl": "https://www.soundjay.com/coins/sounds/coin-drop-1.mp3",
+      "soundUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Coin_drop.ogg",
+      "soundType": "real",
       "isPremium": false
     },
     {
@@ -87,7 +95,8 @@
       "desc": "Валюта Канады.",
       "obverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Canadian_1_dollar_coin_2012.jpg/512px-Canadian_1_dollar_coin_2012.jpg",
       "reverseUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Canadian_1_dollar_coin_2012.jpg/512px-Canadian_1_dollar_coin_2012.jpg",
-      "soundUrl": "https://www.soundjay.com/coins/sounds/coin-drop-2.mp3",
+      "soundUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Coin_drop.ogg",
+      "soundType": "real",
       "isPremium": false
     }
   ]

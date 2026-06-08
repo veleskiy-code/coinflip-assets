@@ -1,0 +1,13 @@
+﻿{
+  "coins": [
+    {
+      "id": "bitcoin",
+      "name": "Биткоин",
+      "desc": "Первая децентрализованная криптовалюта (2009).",
+      "obverseUrl": "https://veleskiy-code.github.io/coinflip-assets/coins/bitcoin/obverse.png",
+      "reverseUrl": "https://veleskiy-code.github.io/coinflip-assets/coins/bitcoin/reverse.png",
+      "soundUrl": "https://veleskiy-code.github.io/coinflip-assets/coins/bitcoin/sound.mp3",
+      "isPremium": false
+    }
+  ]
+}
